@@ -1,0 +1,43 @@
+* {
+    font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+.main-box {
+    background-color: #f1f0e1;
+    padding: 50px;
+    margin: 20px 50px;
+    border: dotted 3px black;
+}
+
+img {
+    border: solid 4px black;
+    margin: 0px auto;
+}
+.main-box ul {
+
+    background-color: #a1e8bd;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    background-color: #eee;
+    display: block;
+    padding: 5px;
+    border: solid 2px black;
+}
+
+a:hover {
+    background-color: #bcb6b6;
+}
+
+.title {
+    background-color: #e7e1c4;
+    text-align: center;
+    border-radius: 5px
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
