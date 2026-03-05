@@ -19,6 +19,14 @@ img {
     padding: 10px;
 }
 
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
 a {
     text-decoration: none;
     background-color: #eee;
