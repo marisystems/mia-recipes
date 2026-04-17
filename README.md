@@ -1,4 +1,4 @@
-# Miavarium recipes
+# Mia recipes
 
 This repository is part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) course
 
